@@ -8,5 +8,5 @@ a.valueOf = function(){
     return this.i;
 };
 
-console.log('a == a', a == a);
-console.log('a < a', a < a);
+console.log('a == a', a == a); // true
+console.log('a < a', a < a); // true
