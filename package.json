@@ -1,0 +1,19 @@
+{
+  "name": "time-to-js-experiments",
+  "version": "1.0.0",
+  "description": "Experimants with rarely used parts of javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abahrisd/time-to-js-experiments.git"
+  },
+  "author": "Samir Abakhri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abahrisd/time-to-js-experiments/issues"
+  },
+  "homepage": "https://github.com/abahrisd/time-to-js-experiments#readme"
+}
